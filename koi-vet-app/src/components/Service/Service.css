@@ -1,0 +1,35 @@
+.custom-service-card {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    overflow: hidden;
+   
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .custom-img-fluid {
+    width: 300px;
+    height: 300px;
+    display: block !important; /* Ensures the image is treated as a block element */
+    object-fit: cover !important; /* Ensures the image covers the container without stretching */
+  }
+  
+  .custom-price-info {
+    font-size: 0.9rem;
+    color: #555;
+  }
+
+  .description-preview p {
+    margin: 0;
+  }
+
+  .description-preview {
+    height: 100px;
+    overflow: hidden;
+  }
+
+  .service-name{
+    color: var(--color-primary);
+    font-weight: 500;
+    font-size: 1.5rem;
+    text-align: start;
+  }
