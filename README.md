@@ -2,7 +2,6 @@
 
 ## Introduction
 The Koi Veterinary Service Center is designed to provide professional veterinary care specifically for Koi fish. This software streamlines the management of various services offered by the center, including online consultations, in-home visits for Koi pond assessments, disease treatment, and medication prescriptions. The system facilitates scheduling, tracking, and reporting of services, as well as managing customer data, feedback, and staff operations.
-
 Group02_Koi Med
 5 Members:
 - Đặng Mai Anh Tú (SE182951) 👨‍💻
@@ -66,66 +65,27 @@ Group02_Koi Med
 The GUI (Graphical User Interface) for the Koi Veterinary Service Center system will include the following pages and functionality:
 - **The main landing page of the Koi Veterinary Service Center website. 🏠**
   ![HOME PAGE ](https://github.com/TranPhuKhag/Koi-Veterinary-Service-Center/blob/main/images/homepage.png)
-  
-
-### Customer Pages 👤
-- **aboutus.png:** Information about the Koi Veterinary Service Center. 📋
-- **addkoi.png:** Page for customers to add information about their Koi fish and pond. 🐟🌊
-- **addpond.png:** Page for customers to add information about their Koi pond. 🌊
-- **appointmentdetail.png:** Page to view details of scheduled appointments. 📅
-- **changepas.png:** Page for customers to change their account password. 🔑
-- **confirmappointment.png:** Page to confirm scheduled appointments. 📅
-- **contact.png:** Page to contact the Koi Veterinary Service Center. 📞
-- **contactmanagement.png:** Page for customers to manage their contact information. 📝
-- **dashboard.png:** Dashboard for customers to view their appointment history and Koi/pond information. 📊
-- **database.png:** Page to manage the database of Koi fish and pond information. 🐟🌊
-- **enterpaym.png:** Page to enter payment information for scheduled appointments. 💳
-- **faq.png:** Frequently Asked Questions page. 💬
-- **faqmanagement.png:** Page for managing the FAQ section. 💬
-- **googlemeeting.png:** Page for joining online consultations with veterinarians. 💻
-- **homevisitmanagement.png:** Page for managing home visit appointments. 🏠
-- **information.png:** Page to view general information about the Koi Veterinary Service Center. 📋
-- **invoice.png:** Page to view invoices for completed appointments. 💰
-- **koidetail.png:** Page to view detailed information about a customer's Koi fish. 🐟
-- **login.png:** Page for customers to log in to their account. 🔑
-- **medicinemanagement.png:** Page for managing the inventory of Koi medications. 💊
-- **myappointment.png:** Page for customers to view and manage their scheduled appointments. 📅
-- **mykoi.png:** Page for customers to manage information about their Koi fish. 🐟
-- **mypond.png:** Page for customers to manage information about their Koi pond. 🌊
-- **news.png:** Page to view news and updates from the Koi Veterinary Service Center. 📰
-- **newsmanagement.png:** Page for managing news and updates. 📰
-- **payment.png:** Page to make payments for scheduled appointments. 💳
-- **ponddetail.png:** Page to view detailed information about a customer's Koi pond. 🌊
-- **register.png:** Page for guests to register an account. 📝
-- **schedualmanagement.png:** Page for managing the schedules of veterinarians. 📆
-- **selectdateenter.png:** Page to select a date for a scheduled appointment. 📅
-- **selectdatecome.png:** Page to select a date for a customer to visit the Koi Veterinary Service Center. 📅
-- **selectkoi.png:** Page to select a Koi fish for a scheduled appointment. 🐟
-- **selectservice.png:** Page to select a service offered by the Koi Veterinary Service Center. 🏥
-- **selectveterian.png:** Page to select a veterinarian for a scheduled appointment. 👨‍⚕️
-- **servicedetail.png:** Page to view details of the services offered by the Koi Veterinary Service Center. 🏥
-- **serviceman.png:** Page for managing the services offered by the Koi Veterinary Service Center. 🏥
-- **success.png:** Page to confirm the successful completion of an appointment or service. ✅
-- **usermanag.png:** Page for customers to manage their account information. 👤
-- **vetappointment.png:** Page for veterinarians to manage their scheduled appointments. 📅
-- **vetappointmentmanagement.png:** Page for managing veterinarian appointments. 📆
-- **vetprofile.png:** Page to view the profiles of veterinarians. 👨‍⚕️
-- **vetschedual.png:** Page to view the schedules of veterinarians. 📆
-
+  - **Page for customers to log in to their account. 🔑**
+  ![LOGIN PAGE](https://github.com/TranPhuKhag/Koi-Veterinary-Service-Center/blob/main/images/login.png)
+- **Page for guests to register an account. 📝** 
+![RESGISTER PAGE](https://github.com/TranPhuKhag/Koi-Veterinary-Service-Center/blob/main/images/register.png)
+- **Page for managing veterinarian appointments. 📆** 
+![VETERINARIANS MANAGER PAGE](https://github.com/TranPhuKhag/Koi-Veterinary-Service-Center/blob/main/images/vetappointmentmanagement.png)
+**Frequently Asked Questions page. 💬** 
+![FAQ PAGE](https://github.com/TranPhuKhag/Koi-Veterinary-Service-Center/blob/main/images/faq.png)
+- **Information about the Koi Veterinary Service Center. 📋** 
+![ABOUT US](https://github.com/TranPhuKhag/Koi-Veterinary-Service-Center/blob/main/images/aboutus.png)
+**Page to select a service offered by the Koi Veterinary Service Center. 🏥** 
+![SERVICES PAGE ](https://github.com/TranPhuKhag/Koi-Veterinary-Service-Center/blob/main/images/selectservice.png)
+**Page to view details of scheduled appointments. 📅** 
+![APPOINTMENT DETAIL PAGE](https://github.com/TranPhuKhag/Koi-Veterinary-Service-Center/blob/main/images/appointmentdetail.png)
+**Page to view news and updates from the Koi Veterinary Service Center. 📰** 
+![NEWS PAGE](https://github.com/TranPhuKhag/Koi-Veterinary-Service-Center/blob/main/images/news.png)
 ![Koi Pond](koi_pond.png) 🌊
 *A serene Koi pond, the centerpiece of the Koi Veterinary Service Center*
-
 ## 3. Database 🗄️
-The Koi Veterinary Service Center system will utilize a relational database to store and manage all relevant data, including:
-
-- Customer information (name, contact details, Koi fish and pond details)
-- Veterinarian information (name, contact details, availability, specialties)
-- Appointment details (date, time, service, veterinarian, customer)
-- Service and treatment information (type, duration, cost, medication)
-- Feedback and rating data
-- Inventory management for medications and supplies
-
-The database design will ensure efficient data storage, retrieval, and updates, enabling the system to provide seamless service management and reporting capabilities.
+- **Page to manage the database of Koi fish and pond information. 🐟🌊**
+ ![DATA BASE](https://github.com/TranPhuKhag/Koi-Veterinary-Service-Center/blob/main/images/database.png)
 
 ## 4. System Design 🛠️
 The Koi Veterinary Service Center system will be designed using a modular architecture, allowing for scalability and easier maintenance. The key components of the system design include:
@@ -139,7 +99,6 @@ The Koi Veterinary Service Center system will be designed using a modular archit
 7. **Notification and Communication:** Automated notifications and communication channels will keep customers and staff informed about appointments, updates, and other relevant information. 📨
 8. **Security and Access Control:** Robust security measures and access control mechanisms will ensure the protection of sensitive data and prevent unauthorized access. 🔒
 
-![Autumn Leaves](autumn_leaves.png) 🍁
 *Autumn leaves drifting in the wind, symbolizing the changing seasons and the need for adaptability in the Koi Veterinary Service Center's operations*
 
 ## 5. Conclusion & Discussion 💭
@@ -157,8 +116,6 @@ The Koi Veterinary Service Center system will be designed using a modular archit
 **Improvements:** 🚀
 - Enhanced UI/UX.
 - Multi-language support for broader accessibility.
-
-![Ocean Wave](ocean_wave.png) 🌊
-*A calming ocean wave, representing the fluid and graceful nature of the Koi Veterinary Service Center's operations*
+*A calming ocean wave, representing the fluid and graceful nature of the Koi Veterinary Service Center's operations*🌊
 
 ✨ **Thank you for exploring the Koi Veterinary Service Center project!** ✨
