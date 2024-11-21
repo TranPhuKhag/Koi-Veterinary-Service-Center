@@ -64,6 +64,9 @@ Group02_Koi Med
 
 ## 2. GUI 🖥️
 The GUI (Graphical User Interface) for the Koi Veterinary Service Center system will include the following pages and functionality:
+- **The main landing page of the Koi Veterinary Service Center website. 🏠**
+  ![HOME PAGE ](https://github.com/TranPhuKhag/Koi-Veterinary-Service-Center/blob/main/images/homepage.png)
+  
 
 ### Customer Pages 👤
 - **aboutus.png:** Information about the Koi Veterinary Service Center. 📋
@@ -80,7 +83,6 @@ The GUI (Graphical User Interface) for the Koi Veterinary Service Center system 
 - **faq.png:** Frequently Asked Questions page. 💬
 - **faqmanagement.png:** Page for managing the FAQ section. 💬
 - **googlemeeting.png:** Page for joining online consultations with veterinarians. 💻
-- **homepage.png:** The main landing page of the Koi Veterinary Service Center website. 🏠
 - **homevisitmanagement.png:** Page for managing home visit appointments. 🏠
 - **information.png:** Page to view general information about the Koi Veterinary Service Center. 📋
 - **invoice.png:** Page to view invoices for completed appointments. 💰
